@@ -2,21 +2,21 @@
 
 ## < --- In Progress --- >
 
-### Module 1: Introduction to GitOps
+### [Module 1: Introduction to GitOps](./M1-Introduction-to-GitOps.md)
 
-- Understanding the principles of GitOps
+- GitOps and its principles
 - Evolution of DevOps to GitOps
 - Benefits and challenges of GitOps
 - Real-world examples of GitOps implementations
 
-### Module 2: Git Fundamentals for GitOps
+### [Module 2: Git Fundamentals for GitOps](./M2-Git-Fundamentals-for-GitOps.md)
 
 - Advanced Git branching strategies (GitFlow, GitHub Flow, GitLab Flow)
 - Rebasing and merging strategies
 - Git hooks for automation and validation
 - GitOps-specific best practices in repository management
 
-### Module 3: Infrastructure as Code (IaC) with GitOps
+### [Module 3: Infrastructure as Code (IaC) with GitOps](./M3-IaC-with-GitOps.md)
 
 - Introduction to Infrastructure as Code (IaC) principles
 - Using GitOps for managing infrastructure configurations
